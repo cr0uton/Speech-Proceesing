@@ -1,6 +1,6 @@
-ASSIGNMENTS FOR SPEECH PROCESSING
+# ASSIGNMENTS FOR SPEECH PROCESSING
 
-1) Assignment 1
+### 1) Assignment 1
 
    i) Generate an audio file from text mentioning words such as, Sesquipedalian, Perspicacity, Ostentation, Muliebrity, Hippopotomonstrosesquipedaliophobia, Floccinaucinihilipilification, Scripturient.
    
