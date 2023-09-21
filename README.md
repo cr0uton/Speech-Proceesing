@@ -25,3 +25,28 @@
    iii) Extract the mel spectrogram features with 128 mel bands from those 500 audios and build simple logistic regression. Comment on the model output performance.
 
    iv)  Compare model results of MFCC and Mel Spectrogram
+
+### 1) Assignment 3
+   i) Problem Statement: To build and design CNN model for identification of Dystarthia Disease 
+
+   ii) Read data.csv in pandas
+   iii) For any 1 random sample of dysarthric male, dysarthric female, non-dysarthric male, and non-dysarthric female, visualize.
+   
+         a. Waveplot
+         b. Spectrogram
+         c. Zero Crossing rate
+         d. Spectral Centroid and rolloff,
+         e. MFCC
+         f. Mel Spectrogram
+         
+   iv) Comment on the output.
+   
+   v) Define a function to create 256 MFCC features for any given audio file.
+   
+   vi) Split the data into training and validation by a ratio of 90:10.
+   
+   vii) Build the CNN model with padding on a training set.
+   
+   viii) Evaluate the validation set.
+   
+   ix) Calculate and comment on ROC AUC score, recall score and confusion matrix
